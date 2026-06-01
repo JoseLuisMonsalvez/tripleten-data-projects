@@ -16,20 +16,14 @@ Soy profesional con experiencia en gestión y análisis, actualmente en proceso 
 
 ## Herramientas y tecnologías
 
-### 1. Google Sheets
-
-* Dashboards
-* Tablas dinámicas
-* Fórmulas y análisis visual
-
-### 2. SQL
+### 1. SQL
 
 * Consultas SQL
 * JOIN
 * GROUP BY
 * Análisis financiero
 
-### 3. Python y Pandas
+### 2. Python y Pandas
 
 * Limpieza de datos
 * Análisis exploratorio
