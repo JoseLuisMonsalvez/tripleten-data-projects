@@ -4,7 +4,7 @@
 
 Bienvenido a mi portafolio de proyectos desarrollados durante el Bootcamp de Data Analytics de TripleTen.
 
-Actualmente me estoy formando como Junior Data Analyst, desarrollando habilidades en análisis de datos, visualización, SQL, Python y Pandas.
+Actualmente me estoy formando como Junior Data Analyst, desarrollando habilidades en análisis de datos, visualización, Google Sheets, SQL, Python y Pandas.
 
 ---
 
@@ -16,7 +16,15 @@ Soy profesional con experiencia en gestión y análisis, actualmente en proceso 
 
 # Herramientas y tecnologías
 
-## 1. SQL
+## Google Sheets
+
+* Dashboards
+* Tablas dinámicas
+* Fórmulas
+* Visualización de KPIs
+* Análisis comercial
+
+## SQL
 
 * Consultas SQL
 * JOIN
@@ -25,7 +33,7 @@ Soy profesional con experiencia en gestión y análisis, actualmente en proceso 
 * Funciones de agregación
 * Análisis financiero y comercial
 
-## 2. Python y Pandas
+## Python y Pandas
 
 * Limpieza de datos
 * Análisis exploratorio
@@ -51,7 +59,7 @@ Proyecto de análisis de movilidad urbana y productividad económica utilizando 
 
 🔗 Ver carpeta completa de proyectos y archivos:
 
-[Portafolio Data Analytics - Google Drive]([PEGA_AQUI_EL_LINK](https://drive.google.com/drive/folders/14Evzp1zViYQDDV19x8JgouYZs4Y65TUm?usp=sharing)
+[Portafolio Data Analytics - Google Drive]https://drive.google.com/drive/folders/14Evzp1zViYQDDV19x8JgouYZs4Y65TUm?usp=sharing
 
 ---
 
@@ -59,6 +67,7 @@ Proyecto de análisis de movilidad urbana y productividad económica utilizando 
 
 * LinkedIn: https://www.linkedin.com/in/josé-luis-monsálvez
 * GitHub: https://github.com/JoseLuisMonsalvez
+
 
 
 
