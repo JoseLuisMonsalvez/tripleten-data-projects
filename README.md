@@ -39,6 +39,12 @@ Soy profesional con experiencia en gestión y análisis, actualmente en proceso 
 ---
 
 ## Proyectos
+## Portafolio completo
+
+🔗 Ver carpeta completa de proyectos y archivos:
+
+[Portafolio Data Analytics - Google Drive](https://drive.google.com/drive/folders/14Evzp1zViYQDDV19x8JgouYZs4Y65TUm?usp=sharing)
+
 
 ### Proyecto 1 — Google Sheets
 
