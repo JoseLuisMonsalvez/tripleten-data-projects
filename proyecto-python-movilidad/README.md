@@ -21,3 +21,10 @@ Se integraron datasets de tráfico y economía para analizar congestión, tiempo
 
 ## Conclusión
 El proyecto permitió desarrollar habilidades en análisis exploratorio, limpieza de datos y visualización utilizando Python y Pandas.
+
+## Datos finales y reproducción
+
+[CSV final del autor](data/ladb_mobility_economy_2024_clean.csv) · [Cobertura y requisitos de reproducción](REPRODUCIBILIDAD.md)
+
+El CSV localizado contiene 15 filas de ciudad–año de 2024 y utiliza punto y coma como separador.
+

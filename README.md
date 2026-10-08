@@ -1,77 +1,54 @@
-# José Luis Monsálvez | Portafolio de Data Analytics
+# José Luis Monsálvez | Data Analyst
 
-**Data Analyst · SQL, Python y Power BI · Administración, costes y operaciones**
+**SQL · Python · Power BI | Administración, costes y operaciones**
 
-Soy profesional con experiencia en administración, operaciones y formación de equipos. He completado el Bootcamp de Data Analytics de TripleTen y conecto mi experiencia de negocio con el análisis de datos para apoyar la toma de decisiones.
+Conecto mi experiencia en administración, operaciones y formación de equipos con el análisis de datos para apoyar decisiones de negocio. Completé el Bootcamp de Data Analytics de TripleTen.
 
-Este repositorio reúne proyectos de formación realizados con SQL, Python y herramientas de visualización.
+Este portafolio presenta trabajos formativos. Cada ficha explica el problema, mi contribución, las decisiones del análisis, los resultados y las evidencias disponibles.
 
-## Proyectos
+## Empieza por estos tres proyectos
 
-### RappiPlus — Proyecto final: rentabilidad, conversión, retención y A/B
+### 1. RappiPlus — De la calidad de datos a la decisión de negocio
 
-**Problema:** evaluar el desempeño del caso RappiPlus y aportar evidencia para decisiones sobre costes, experiencia de compra y actividad de usuarios.
+**Pregunta:** ¿qué resultados económicos muestra el caso, cómo se comportan conversión y retención y hay evidencia para cambiar el checkout?
 
-**Datos:** 24.920 pedidos limpios de enero a junio de 2025, catálogo y marketing; tablas SQL de eventos y actividad; experimento A/B con 10.000 usuarios.
+Integré limpieza en Python, análisis de negocio, consultas SQL y un informe Power BI. Distinguí el resultado económico según los costes disponibles y evalué la diferencia entre variantes con una prueba estadística.
 
-**Herramientas y análisis:** Python, Pandas, NumPy, SQL/PostgreSQL, prueba Z de dos proporciones y Power BI. Incluye limpieza, integración de datos, indicadores económicos, conteos de usuarios por evento y retención por cohortes.
+**Resultado:** 24.920 pedidos limpios, análisis de retención y un A/B sin evidencia suficiente de mejora de conversión. Demuestra análisis de principio a fin y comunicación de límites para evitar decisiones no respaldadas.
 
-**Hallazgos:** resultado positivo de 2.910.708,05 después de costes de productos y marketing; retención semanal cercana al 42 %. El test A/B no demuestra una mejora significativa de conversión (p = 0,4161). El resultado económico no incluye otros costes operativos y el funnel no valida recorridos secuenciales individuales.
+[Ver caso y decisiones](proyecto-rappiplus/README.md) · [Notebook](proyecto-rappiplus/RappiPlus.ipynb) · [Power BI](proyecto-rappiplus/dashboard/RappiPlus.pbix) · [SQL](proyecto-rappiplus/sql/)
 
-**Resultado:** notebook, consultas SQL, tres CSV limpios e informe Power BI de cuatro páginas, con recomendaciones del ejercicio formativo.
+### 2. Andes Capital — Análisis comercial inmobiliario
 
-[Documentación](proyecto-rappiplus/README.md) · [Notebook](proyecto-rappiplus/RappiPlus.ipynb) · [Power BI](proyecto-rappiplus/dashboard/RappiPlus.pbix)
+**Pregunta:** ¿qué propiedades, ciudades y segmentos aportan valor y cómo evoluciona la actividad comercial?
 
-### ConectaTel — Comportamiento y segmentación de clientes
+Construí un informe Power BI con datos de ventas, clientes y propiedades, vistas comerciales, análisis temporal y cohortes. Comparé volumen y valor para explicar por qué liderar las operaciones no implica liderar los ingresos.
 
-**Problema:** analizar el uso de servicios para identificar segmentos de clientes y oportunidades de ofertas y fidelización.
+**Resultado:** dashboard de cuatro páginas sobre 8.500 ventas de 2023–2024, acompañado de datos y memoria del análisis. Demuestra modelado y comunicación de indicadores para decisiones comerciales.
 
-**Datos:** información de planes, clientes de LATAM y registros de uso de llamadas y mensajes.
+[Ver caso y decisiones](proyecto-andes-capital/README.md) · [Power BI](proyecto-andes-capital/dashboard/Andes_Capital.pbix) · [Datos](proyecto-andes-capital/data/) · [Memoria](proyecto-andes-capital/Memoria_del_dashboard.ipynb)
 
-**Herramientas y análisis:** Python, Pandas, Matplotlib y Seaborn; limpieza de valores inválidos, estandarización de fechas, métricas por usuario, estadística descriptiva, detección de valores atípicos y segmentación por edad y consumo.
+### 3. NovaRetail — Asociaciones que orientan hipótesis de negocio
 
-**Hallazgos:** predominan los usuarios adultos y de consumo medio. Los clientes de uso intensivo representan un segmento de interés para ofertas premium y fidelización.
+**Pregunta:** ¿cómo se relacionan compras, visitas, publicidad y otras características con los ingresos de clientes?
 
-**Resultado:** notebook con análisis y recomendaciones comerciales. El proyecto no mide resultados de una implementación de esas recomendaciones.
+Analicé 15.000 registros, visualicé relaciones y comparé métodos de asociación adecuados a variables numéricas, binarias y categóricas. Separé las asociaciones observadas de afirmaciones causales.
 
-[Documentación](README_Sprint7_ConectaTel.md) · [Notebook](S7%20Version-Estudiante-Project-ConnectaTel.ipynb)
+**Resultado:** notebook con datos incluidos, gráficos, interpretación y límites. Las compras mensuales muestran una asociación fuerte con los ingresos; la publicidad presenta una asociación moderada con visitas. Son hipótesis que requieren validación antes de atribuir impacto a una acción.
 
-### Movilidad urbana y productividad económica
+[Ver caso y decisiones](proyecto-novaretail/README.md) · [Notebook](proyecto-novaretail/NovaRetail.ipynb) · [Datos](proyecto-novaretail/data/novaretail_comportamiento_clientes_2024.csv)
 
-**Problema:** explorar la relación entre movilidad urbana y productividad económica en ciudades de LATAM.
+## Más trabajos y requisitos de consulta
 
-**Datos:** datasets de tráfico y economía, con congestión, tiempos de viaje y PIB per cápita.
+[Catálogo de proyectos](PROYECTOS.md) — incluye ConectaTel, Movilidad, Landing A/B, MercadoLibre y el análisis comprobado de Andes Retail.
 
-**Herramientas y análisis:** Python, Pandas, Matplotlib y Seaborn; integración, limpieza, transformación y visualización de datos.
+Los notebooks conservan resultados guardados. Sus fichas indican qué datos y dependencias hacen falta para repetirlos. Los archivos PBIX se consultan en Power BI Desktop; GitHub permite descargar el archivo, pero no ofrece una demo interactiva del informe.
 
-**Hallazgos:** Ciudad de México y Bogotá presentaron altos niveles de congestión. Montevideo mostró PIB per cápita alto con congestión moderada. No se observó una relación completamente directa entre mayor PIB y mayor tráfico.
-
-**Resultado:** notebook con análisis exploratorio y visualizaciones.
-
-[Documentación](proyecto-python-movilidad/README.md) · [Notebook](proyecto-python-movilidad/S5%20ladb_mobility_economy_project_student.ipynb)
-
-### SQL — Análisis del desempeño financiero
-
-Descripción del análisis de ingresos, gastos y métricas financieras mediante consultas SQL, agrupaciones, filtros y operaciones entre tablas.
-
-[Documentación](proyecto-sql-finanzas/README.md)
-
-Actualmente esta carpeta contiene la descripción del proyecto; las consultas SQL todavía no están incluidas en este repositorio.
-
-## Herramientas y competencias
-
-- **SQL:** consultas, JOIN, GROUP BY, ORDER BY y funciones de agregación.
-- **Python y Pandas:** limpieza, transformación y análisis exploratorio.
-- **Matplotlib y Seaborn:** visualización de datos.
-- **Power BI:** Power Query, DAX, modelado de datos, KPIs y dashboards.
-- **Google Sheets:** fórmulas, tablas dinámicas e indicadores.
-- **Jupyter Notebook:** desarrollo y documentación del análisis.
-
-## Archivos complementarios
-
-[Carpeta de proyectos en Google Drive](https://drive.google.com/drive/folders/14Evzp1zViYQDDV19x8JgouYZs4Y65TUm?usp=sharing)
+[Estado de entregas y revisiones pendientes](ESTADO_PROYECTOS.md)
 
 ## Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-luis-mons%C3%A1lvez/)
 - [GitHub](https://github.com/JoseLuisMonsalvez)
+
+[Archivos complementarios en Google Drive](https://drive.google.com/drive/folders/14Evzp1zViYQDDV19x8JgouYZs4Y65TUm?usp=sharing)

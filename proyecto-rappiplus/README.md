@@ -2,6 +2,13 @@
 
 Proyecto final del Bootcamp Data Analytics de TripleTen, realizado por **José Luis Monsálvez**. Integra calidad de datos, análisis económico, conversión, retención y experimentación para apoyar decisiones de negocio.
 
+## Mi contribución y decisiones
+
+Realicé la limpieza y validación de pedidos, catálogo y marketing; calculé indicadores económicos; desarrollé consultas de conversión y cohortes; evalué el checkout con un A/B y preparé el informe Power BI.
+
+Decidí comprobar cantidades e importes antes de evaluar rentabilidad, delimitar los costes que realmente incluían los datos y conservar la distinción entre diferencia observada y evidencia estadística. El A/B llevó a recomendar más evidencia antes de un despliegue general. Los conteos por evento se interpretan con la limitación de no validar recorridos secuenciales individuales.
+
+
 ## Problema de negocio
 
 Evaluar el desempeño del caso RappiPlus: ¿qué resultados económicos muestran los datos disponibles?, ¿en qué eventos del proceso de compra disminuye el número de usuarios?, ¿los usuarios vuelven después del registro? y ¿una modificación de la interfaz del checkout mejora la conversión?
