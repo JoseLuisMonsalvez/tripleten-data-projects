@@ -1,5 +1,23 @@
 # NovaRetail — Correlaciones y comportamiento de clientes
 
+[Inicio del portafolio](../README.md) · [Todos los proyectos](../PROYECTOS.md)
+
+![NovaRetail — Comportamiento de clientes](../docs/assets/novaretail.svg)
+
+## El caso en un minuto
+
+**Pregunta de negocio:** ¿Cómo se relacionan compras, publicidad y visitas con el comportamiento de los clientes?
+
+**Conclusión principal:** Compras e ingresos presentan una asociación fuerte (Pearson 0,967). Publicidad y visitas muestran una asociación moderada (0,579); las relaciones no prueban causalidad.
+
+**Evidencia:** Notebook con resultados guardados, dataset y dependencias. Gráficos originales disponibles.
+
+### Visualización del análisis original
+
+![Compras mensuales frente a ingreso anual en NovaRetail](../docs/assets/novaretail-compras-ingresos.png)
+
+Gráfico extraído de la salida guardada del notebook entregado. La asociación observada no demuestra causalidad.
+
 Proyecto formativo de José Luis Monsálvez, Sprint 8 del Bootcamp Data Analytics de TripleTen.
 
 ## Mi contribución y decisiones

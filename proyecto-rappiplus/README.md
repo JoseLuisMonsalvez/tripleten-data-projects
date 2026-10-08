@@ -1,5 +1,21 @@
 # RappiPlus — Análisis de negocio con Python, SQL y Power BI
 
+[Inicio del portafolio](../README.md) · [Todos los proyectos](../PROYECTOS.md)
+
+![RappiPlus — Análisis de negocio y experimentación](../docs/assets/rappiplus.svg)
+
+## El caso en un minuto
+
+**Pregunta de negocio:** ¿Qué muestran los costes, la conversión y la retención, y hay evidencia para cambiar el checkout?
+
+**Conclusión principal:** El A/B no demuestra una mejora de conversión (p = 0,4161). El resultado económico considera productos y marketing, no todos los gastos del negocio.
+
+**Evidencia:** Notebook, siete consultas SQL, tres CSV e informe Power BI de cuatro páginas.
+
+[Descargar el informe Power BI](https://raw.githubusercontent.com/JoseLuisMonsalvez/tripleten-data-projects/main/proyecto-rappiplus/dashboard/RappiPlus.pbix)
+
+El enlace descarga el archivo PBIX. Ábrelo con Power BI Desktop para consultar las páginas y utilizar los filtros; GitHub no ofrece una vista previa interactiva del informe. Las instrucciones de actualización figuran al final de esta ficha.
+
 Proyecto final del Bootcamp Data Analytics de TripleTen, realizado por **José Luis Monsálvez**. Integra calidad de datos, análisis económico, conversión, retención y experimentación para apoyar decisiones de negocio.
 
 ## Mi contribución y decisiones

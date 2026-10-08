@@ -12,7 +12,7 @@ La selección utiliza las carpetas de proyectos del autor y conserva las version
 | Sprint 7 — ConectaTel | Ya estaba publicado. Los datos originales `plans.csv`, `users_latam.csv` y `usage.csv` no se localizaron en las carpetas de entrega. |
 | Sprint 5 — Movilidad | Ya estaba publicado; se añade el CSV final entregado por el autor. Sus fuentes de tráfico y economía no se localizaron en la carpeta del proyecto. |
 | Sprint 4 — MercadoLibre | Libro de resultados publicado. No se localizaron las consultas SQL ni las tablas fuente. |
-| Archivo Walmart localizado en Sprint 3 | Dashboard con errores guardados `#NAME?`; pendiente de revisar una versión funcional antes de publicarlo. |
+| Sprint 2 — Walmart | Copia compatible con Excel publicada. Resultados contrastados con la entrega de la plataforma; apertura sin reparación comprobada. Resúmenes con fórmulas en lugar de las tablas dinámicas exportadas. |
 | Sprint 3 — SQL financiero | Resumen ejecutivo confirmado por el autor como entrega final; seis países y relaciones financieras contrastadas. Se aclara la definición de ROI usada en la entrega. Faltan las consultas y tablas fuente. |
 | Sprint 6 — Preparación profesional | CV, cartas y documentos personales excluidos del portafolio de proyectos. |
 

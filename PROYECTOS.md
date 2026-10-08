@@ -12,6 +12,7 @@ Para empezar, revisa [la selección de tres proyectos destacados](README.md). Aq
 | [Landing A/B](proyecto-landing-ab/README.md) | Pruebas de hipótesis para conversión y gasto | Notebook con resultados guardados; falta el archivo de entrada |
 | [MercadoLibre](proyecto-mercadolibre/README.md) | Comunicación de embudo y retención por país/cohorte | XLSX con tablas y resumen; consultas fuente no disponibles |
 | [Andes Retail](proyecto-andes-retail/README.md) | Comparación comercial y reconciliación de indicadores | Excel, resultados comprobados y programa reproducible; Power BI en revisión |
+| [Walmart](proyecto-walmart/README.md) | Resúmenes de ventas y selector de departamento | Excel compatible con los resultados de la entrega original |
 | [SQL financiero](proyecto-sql-finanzas/README.md) | Comparación de ingresos, costes, margen y campañas en seis países | Resumen ejecutivo entregado a TripleTen; consultas y fuentes pendientes |
 
 Todos son ejercicios formativos. Las recomendaciones no se presentan como mejoras implementadas en empresas reales.

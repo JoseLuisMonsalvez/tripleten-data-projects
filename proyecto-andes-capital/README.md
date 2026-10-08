@@ -1,5 +1,21 @@
 # Andes Capital Real Estate — Dashboard comercial inmobiliario
 
+[Inicio del portafolio](../README.md) · [Todos los proyectos](../PROYECTOS.md)
+
+![Andes Capital — Business Intelligence comercial](../docs/assets/andes-capital.svg)
+
+## El caso en un minuto
+
+**Pregunta de negocio:** ¿Qué propiedades aportan ingresos y cómo evoluciona la actividad comercial?
+
+**Conclusión principal:** Las casas aportan el 37,26 % de los ingresos y los departamentos el 60,06 % de las operaciones: volumen y valor orientan prioridades distintas.
+
+**Evidencia:** PBIX, memoria del análisis y tres CSV. Indicadores principales contrastados con los datos.
+
+[Descargar el informe Power BI](https://raw.githubusercontent.com/JoseLuisMonsalvez/tripleten-data-projects/main/proyecto-andes-capital/dashboard/Andes_Capital.pbix)
+
+El enlace descarga el archivo PBIX. Ábrelo con Power BI Desktop para consultar las páginas y utilizar los filtros; GitHub no ofrece una vista previa interactiva del informe. Las instrucciones de actualización figuran al final de esta ficha.
+
 Proyecto formativo de José Luis Monsálvez, Sprint 11 del Bootcamp de TripleTen.
 
 ## Mi contribución y decisiones
