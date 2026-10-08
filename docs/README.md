@@ -2,13 +2,15 @@
 
 Página estática con proyectos, filtros por herramienta, fichas de negocio y enlaces al repositorio. No requiere paquetes ni procesos de compilación.
 
+[Consultar el portafolio](https://joseluismonsalvez.github.io/tripleten-data-projects/)
+
 ## Consulta local
 
 Descarga esta carpeta y abre `index.html` en el navegador. Conserva `styles.css`, `script.js` y `assets/` junto al HTML. Los enlaces a casos y descargas apuntan al repositorio público.
 
 ## Publicación con GitHub Pages
 
-La página está preparada para GitHub Pages. En Settings → Pages, selecciona Deploy from a branch, rama main y carpeta /docs. La URL solo está disponible una vez habilitado Pages y completado el despliegue; este archivo no confirma que el sitio esté publicado.
+GitHub Pages está configurado para publicar desde la rama `main` y la carpeta `/docs`, con HTTPS. Los cambios de esa carpeta se publican cuando finaliza el flujo de despliegue de Pages. Su estado se consulta en la pestaña Actions del repositorio.
 
 ## Contenido y mantenimiento
 

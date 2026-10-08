@@ -2,6 +2,8 @@
 
 **SQL · Python · Power BI · Excel | Administración, costes y operaciones**
 
+[Explorar el portafolio web](https://joseluismonsalvez.github.io/tripleten-data-projects/) — tarjetas de proyectos y filtros por herramienta.
+
 Conecto mi experiencia en administración, operaciones y formación de equipos con el análisis de datos para apoyar decisiones de negocio. Completé el Bootcamp de Data Analytics de TripleTen.
 
 ## Encuentra un proyecto según lo que quieras evaluar
@@ -67,7 +69,7 @@ Conecto mi experiencia en administración, operaciones y formación de equipos c
 
 Son proyectos formativos. Las recomendaciones se presentan como propuestas del análisis, sin atribuirles mejoras implementadas en empresas reales. Cada ficha detalla qué comprobaciones se hicieron y qué fuentes faltan para repetir el trabajo.
 
-La carpeta [docs](docs/) contiene una portada web con filtros por herramienta y enlaces a estos casos. Se puede abrir descargando `docs/` y abriendo `index.html`; su publicación con GitHub Pages se explica en [docs/README.md](docs/README.md).
+La [portada web](https://joseluismonsalvez.github.io/tripleten-data-projects/) permite filtrar los proyectos por herramienta. Su código está en [docs](docs/) y también se puede abrir localmente descargando esa carpeta y abriendo `index.html`.
 
 ## Contacto
 
